@@ -1,1 +1,1 @@
-bash <(curl -s https://copilot-valid.blackducksoftware.com/ci/buddybuild/scripts/upload)
+bash <(curl -s https://test.duckbuild.io/ci/buddybuild/scripts/upload)
